@@ -1,5 +1,5 @@
 ### Hi there 👋
-My name is Nikky , but I go by b00ey or g00ber for short.
+My name is b00ey, but I go by g00ber as well.
 I am a cybersecurity student interested in Malaware Analyis, Bug Bounty , Reverse Enginnering and Penteration Testing.
 
 
