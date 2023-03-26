@@ -1,4 +1,7 @@
 ### Hi there 👋
+My name is Nikky , but I go by b00ey or g00ber for short.
+I am a cybersecurity student interested in Malaware Analyis, Bug Bounty , Reverse Enginnering and Penteration Testing.
+
 
 <!--
 **moomochi/moomochi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
