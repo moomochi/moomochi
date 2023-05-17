@@ -1,6 +1,6 @@
 ### Hi there 👋
 My name is b00ey, but I go by g00ber as well.
-I am a cybersecurity student interested in Malaware Analyis, Bug Bounty , Reverse Enginnering and Penteration Testing.
+I am a cybersecurity student interested in Malaware Analyis, Bug Bounty , Reverse Enginnering and Penteration Testing. Currently learning C
 
 
 <!--
