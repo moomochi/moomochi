@@ -1,8 +1,10 @@
-### Hi there 👋
-My name is b00ey, but I go by g00ber as well.
+
+![Header](./github-header-banner.png)
+###  Hi there 👋
+Name is b00ey, but I go by g00ber as well.
 I am a cybersecurity student.
-Will be putting my HTB writeups for the mean time.
-maybe upload other stuff who knows.
+
+Will be putting my HTB writeups for the mean time. Along with other projects I may have. 
 
 
 <!--
